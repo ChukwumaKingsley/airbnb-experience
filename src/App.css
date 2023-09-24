@@ -102,3 +102,20 @@ body {
     border-radius: 2px;
     font-weight: bold;
 }
+
+footer {
+    text-align: center;
+    background-color: #ffe; /* Optional background color */
+    padding: 20px 0; /* Optional padding for the footer */
+    color: black;
+}
+
+footer span {
+    margin: 0 10px; /* Optional margin between items */
+    text-decoration: none;
+}
+
+/* Style the footer links */
+footer a {
+    text-decoration: none;
+}
